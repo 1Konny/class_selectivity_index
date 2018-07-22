@@ -4,10 +4,9 @@
 </p>
 <br>
 Very simple replication of the Figure A2 (b) shown in the paper, On the importance of single directions for generalization(Morcos et al, ICLR 2018), which demonstrates that class selectivity increases with depth.
+The original paper used resnet-50 but this code uses vgg11. Please refer to the original paper for the details.
 
-Codes are tested on NVIDIA GTX 1080 Ti(11GB), i7-8700, 32GB RAM.
-
-It will occupy about 29GB if save_outputs is set to True
+This code is tested on NVIDIA GTX 1080 Ti(11GB), i7-8700, 32GB RAM, and will occupy ~29GB if save_outputs is set to True.
 
 ### Dependencies
 ```
