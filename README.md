@@ -41,7 +41,6 @@ tqdm
 
 ### Dataset Setting
 ```
-mkdir data
 cd data
 wget http://www.image-net.org/challenges/LSVRC/2012/nnoupb/ILSVRC2012_img_val.tar
 mkdir ILSVRC2012_img_val
