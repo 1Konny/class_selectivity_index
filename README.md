@@ -3,7 +3,7 @@ Very simple replication of the Figure A2 (b) shown in the paper, On the importan
 The original paper used resnet-50 but this code uses vgg11. Please refer to the original paper for the details.
 
 <p align="center">
-<img src=assets/results.png>
+<img src=assets/results_vgg11_vgg16bn.png>
 </p>
 <br>
 
@@ -20,9 +20,10 @@ tqdm
 ```
 .
 └── README.md
-├── figure.ipynb
+├── vgg11.ipynb
+├── vgg16_bn.ipynb
 ├── assets
-    └── results.png
+    └── results_vgg11_vgg16bn.png
 ├── data
     └── ILSVRC2012_img_val
         └── n01440764
