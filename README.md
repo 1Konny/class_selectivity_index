@@ -4,6 +4,7 @@ The original paper used resnet-50 but this code uses vgg11. Please refer to the 
 
 <p align="center">
 <img src=assets/results_vgg11_vgg16bn.png>
+<img src=assets/results_resnet.png>
 </p>
 <br>
 
